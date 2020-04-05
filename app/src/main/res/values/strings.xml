@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CalculaCapital</string>
+    <string name="quantidade_de_meses">Quantidade de meses</string>
+    <string name="taxa_de_juros_mensal">Taxa de juros mensal</string>
+    <string name="capital_atual">Capital atual</string>
+    <string name="calcular">Calcular</string>
 </resources>
